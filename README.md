@@ -26,7 +26,7 @@ Este proyecto es una utilidad para descargar extensiones de Visual Studio Code e
 1. Clona este repositorio o copia los archivos del proyecto.
 
    ```bash
-   git clone https://github.com/tu-usuario/vscode-extensions-downloader.git
+   git clone https://github.com/isinaveira/vscode-extensions-downloader.git
    cd vscode-extensions-downloader
    ```
 
@@ -40,7 +40,7 @@ Este proyecto es una utilidad para descargar extensiones de Visual Studio Code e
 1. Ejecuta el script principal:
 
    ```bash
-   node downloader.js
+   node app.js
    ```
 
 2. El script realizará las siguientes acciones:
